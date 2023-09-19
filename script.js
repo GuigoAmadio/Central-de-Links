@@ -16,3 +16,15 @@ function toggleMode() {
     );
   }
 }
+
+function changedisc() {
+  var write = document.getElementById("discord");
+
+  if (write.innerText == "Discord") {
+    write.innerText = "Guigo840";
+    write.classList = "discname";
+  } else {
+    write.innerText = "Discord";
+    write.classList = "disc";
+  }
+}
