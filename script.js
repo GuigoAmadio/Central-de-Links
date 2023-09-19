@@ -7,7 +7,7 @@ function toggleMode() {
   if (html.classList.contains("light")) {
     img.setAttribute(
       "src",
-      "./assets/WhatsApp Image 2022-05-03 at 16.53.59.png"
+      "./assets/WhatsApp Image 2023-07-20 at 00.22.51.jpeg"
     );
   } else {
     img.setAttribute(
@@ -15,5 +15,4 @@ function toggleMode() {
       "./assets/WhatsApp Image 2023-07-20 at 00.22.51.jpeg"
     );
   }
-
 }

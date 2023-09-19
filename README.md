@@ -18,7 +18,7 @@ Projeto teste de aprendizado
 <br>
 
 <p align="center">
-  <img alt="Primeiro Projeto" src=".github/preview.jpg" width="100%">
+  <img alt="Primeiro Projeto" src=".github/banner-read-me.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
